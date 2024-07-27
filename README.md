@@ -1,5 +1,7 @@
 # olympic-medal-tracker
 
+A Simple web app that lets you track Olympic Medals using Golang and Vue
+
 ## Environment setup
 
 You need to have [Go](https://golang.org/),
